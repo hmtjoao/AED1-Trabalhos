@@ -12,7 +12,10 @@ Localizado na pasta: `/Jogo-Historia-Arvores`
 Um jogo de escolhas ("Adventure Game") onde o fluxo narrativo é gerenciado por uma **Árvore Binária de Decisões**.
 - **Lógica:** Cada nó representa um evento e as arestas representam as decisões do jogador.
 - **Destaque Técnico:** Uso de recursividade para travessia da árvore e alocação dinâmica de nós.
-- **Documentação:** Inclui o **Diagrama de Fluxo** original em PDF mapeando todos os estados e finais do jogo.
+- **Documentação:** Inclui o **Diagrama de Fluxo** original em PDF mapeando todos os estados e finais do jogo.'
+
+  <img width="673" height="730" alt="image" src="https://github.com/user-attachments/assets/1643b567-d609-4dc5-9406-ed1d57307a3c" />
+
 
 ### 2. 🔠 Jogo da Forca (Listas Encadeadas)
 Localizado na pasta: `/Jogo-Forca-Listas`
@@ -20,6 +23,8 @@ Localizado na pasta: `/Jogo-Forca-Listas`
 Implementação do clássico jogo da forca utilizando **Listas Encadeadas Dinâmicas** para gerenciar as letras e palavras.
 - **Lógica:** Manipulação de ponteiros para inserção e busca de caracteres em tempo real.
 - **Destaque Técnico:** Gerenciamento eficiente de memória e manipulação de strings em baixo nível.
+
+<img width="893" height="690" alt="image" src="https://github.com/user-attachments/assets/99d4ed66-43e4-4781-a8bf-e3f3bdb40861" />
 
 ---
 
