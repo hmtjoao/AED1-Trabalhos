@@ -30,6 +30,11 @@ Implementação do clássico jogo da forca utilizando **Listas Encadeadas Dinâm
 - **Arquivos:** Leitura de bases de dados em formato `.txt`.
 
 ---
+## ➡️ Créditos
+
+Este projeto foi desenvolvido como trabalho final da disciplina Algoritmos e Estruturas de Dados 1, ministrada pelo Prof. Dr. Ricardo Ferrari Junior no Departamento de Computação da UFSCar em 2022.
+
+--- 
 
 ## 🚀 Como Executar
 Para compilar qualquer um dos projetos, utilize o GCC no terminal:
