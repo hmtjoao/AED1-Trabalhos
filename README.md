@@ -7,7 +7,7 @@ Este repositório reúne os projetos práticos desenvolvidos durante a disciplin
 ## 📂 Organização do Repositório
 
 ### 1. 🎮 RPG de Texto (Árvores Binárias)
-Localizado na pasta: `/Jogo-Historia-Arvores`
+Localizado na pasta: `/Jogo-Historia-Arvore`
 
 Um jogo de escolhas ("Adventure Game") onde o fluxo narrativo é gerenciado por uma **Árvore Binária de Decisões**.
 - **Lógica:** Cada nó representa um evento e as arestas representam as decisões do jogador.
@@ -18,7 +18,7 @@ Um jogo de escolhas ("Adventure Game") onde o fluxo narrativo é gerenciado por 
 
 
 ### 2. 🔠 Jogo da Forca (Listas Encadeadas)
-Localizado na pasta: `/Jogo-Forca-Listas`
+Localizado na pasta: `/Jogo-Forca-Lista`
 
 Implementação do clássico jogo da forca utilizando **Listas Encadeadas Dinâmicas** para gerenciar as letras e palavras.
 - **Lógica:** Manipulação de ponteiros para inserção e busca de caracteres em tempo real.
